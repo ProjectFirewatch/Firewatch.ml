@@ -2,4 +2,4 @@
 
 ## We have moved to [projectfirewatch.com](projectfirewatch.com)
 
-## After hitting 1,000,000 page clicks we decided to move to a .com domain
+## After hitting 1,000,000 page clicks we decided to move to a .com domain.
